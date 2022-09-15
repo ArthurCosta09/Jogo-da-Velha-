@@ -40,6 +40,7 @@ footer {
 .link {
     font-weight: bold;
     text-decoration: underline;
+    color: rgb(128, 128, 237);
 }
 
 .link:hover {
@@ -116,6 +117,10 @@ footer {
     font-size: 23px;
     padding-right: 3px;
     font-weight: 500;
+}
+
+.copy {
+    font-weight: bold;
 }
 
 
