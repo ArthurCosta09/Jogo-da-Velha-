@@ -8,6 +8,15 @@ body {
     
 }
 
+footer {
+    margin-top: 127px;
+    font-family: 'Orbitron', sans-serif;
+    color:rgb(128, 128, 237);
+    font-size: 14px;
+    padding-right: 3px;
+    font-weight: 200;
+}
+
 #title {
     margin-top: 42px;
     font-size: 48px;
@@ -28,6 +37,17 @@ body {
     
 }
 
+.link {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.link:hover {
+    cursor: pointer;
+    color:rgb(99, 99, 230);
+    text-decoration: none;
+}
+
 .container {
     margin-top: 113px;
     align-items: center;
@@ -39,12 +59,66 @@ body {
 }
 
 .btn {
-    height: 93px;
-    width: 93px;
+    height: 97px;
+    width: 97px;
     margin-left: 5px;
-    background: rgb(55, 55, 66);
+    background: rgba(55, 55, 82, 0.35);
     border-radius: 5px;
     border-color: rgb(99, 99, 230);
+    border-width: 4px;
+    
     
 }
+
+.btn:hover {
+    cursor: pointer;
+    background: rgb(55, 55, 66);
+    border-color: rgb(128, 128, 237);
+    box-shadow: 5px;
+    
+}
+
+.btn:focus {
+    border-color: rgb(128, 128, 237);
+    background: rgb(55, 55, 66);
+    outline: none;
+    
+}
+
+.reset-btn {
+    margin-top: 25px;
+    font-family: 'Space Mono', monospace;
+    font-size: 17px;
+    height: 35px;
+    width: 5%;
+    color: rgb(99, 99, 230);
+    background:rgb(55, 55, 82);
+    font-weight: bold;
+    border-color: rgb(128, 128, 237);
+}
+
+.reset-btn:hover {
+    cursor: pointer;
+    background: rgb(128, 128, 237);
+    color: rgb(55, 55, 82);
+    border-color: transparent;
+}
+
+.reset-btn:focus {
+    border-color:rgb(99, 99, 230);
+}
+
+.paragraph {
+    margin-top: 59px;
+    margin-bottom: 2px;
+    font-family: 'Orbitron', sans-serif;
+    color:rgb(128, 128, 237);
+    font-size: 23px;
+    padding-right: 3px;
+    font-weight: 500;
+}
+
+
+
+
 
