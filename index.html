@@ -6,7 +6,6 @@
     <meta name="Arthur" content="Jogo da velha" />
     <title>Jogo da Velha ✖️</title>
     <link rel="stylesheet" href="style/style.css" />
-    <script src="../script/gameScript.js"></script>
   </head>
   <body>
     <header>
@@ -32,8 +31,8 @@
           <input type="text" class="btn" readonly />
         </div>
         <div class="turn-field">
-          <p class="paragraph">X player turn</p>
-          <button class="reset-btn">Reset</button>
+          <p class="paragraph" id="result">Player X Turn</p>
+          <button class="reset-btn" onclick="reset()">Reset</button>
         </div>
       </div>
     </main>
@@ -41,8 +40,12 @@
     <footer>
       <p>
         Copyright <span class="copy">&copy;</span> 2022 Brazil -
-        <a class="link" href="./pages/aboutme.html">Arthur Nazário da Costa</a>
+        <a class="link" href="./pages/aboutme.html" target="_blank"
+          >Arthur Nazário da Costa</a
+        >
       </p>
     </footer>
+
+    <script src="script/gameScript.js"></script>
   </body>
 </html>

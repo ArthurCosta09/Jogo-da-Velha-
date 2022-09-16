@@ -71,6 +71,10 @@ footer {
     position: static;
     border-spacing: 0px;
     padding: 0px;
+    color:rgb(99, 99, 230);
+    font-size: 50px;
+    font-family: 'Space Mono', monospace;
+    text-align: center;
     
 }
 
@@ -89,7 +93,8 @@ footer {
     background: rgb(55, 55, 66);
     outline: none;
     border-width: 2px;
-    padding: 0px;
+    padding-left: 2px;
+    padding-right: 2px;
     
 }
 
