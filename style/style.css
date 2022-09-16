@@ -55,7 +55,8 @@ footer {
 }
 
 .row {
-    margin-top: 11px;
+    margin-top: 7px;
+    padding: 0px;
     
 }
 
@@ -67,7 +68,9 @@ footer {
     border-radius: 5px;
     border-color: rgb(99, 99, 230);
     border-width: 4px;
-    
+    position: static;
+    border-spacing: 0px;
+    padding: 0px;
     
 }
 
@@ -75,14 +78,18 @@ footer {
     cursor: pointer;
     background: rgb(55, 55, 66);
     border-color: rgb(128, 128, 237);
-    box-shadow: 5px;
-    
+    border-width: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+        
 }
 
 .btn:focus {
     border-color: rgb(128, 128, 237);
     background: rgb(55, 55, 66);
     outline: none;
+    border-width: 2px;
+    padding: 0px;
     
 }
 
@@ -103,6 +110,7 @@ footer {
     background: rgb(128, 128, 237);
     color: rgb(55, 55, 82);
     border-color: transparent;
+    
 }
 
 .reset-btn:focus {
