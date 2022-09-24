@@ -1,7 +1,7 @@
 let playerTurn = "X";
 let currPos = ["", "", "", "", "", "", "", "", ""];
 let btns = document.querySelectorAll(".btn");
-let leftBlocks = 9;
+let leftBlocks = 10;
 let result = document.querySelector('#result');
 let conditions = [
     [0, 1, 2],
@@ -47,7 +47,7 @@ function ticTacToe(element, index){
             });
             
         }
-        else if (leftBlocks <= 0 && (a != b) && (b != c)){
+        else if (leftBlocks < 0 && (a != b) && (b != c)){
             result.innerHTML = "Tie!";
             btns.forEach((btn) => {
                 btn.disabled = true;
@@ -65,7 +65,7 @@ function ticTacToe(element, index){
 function reset()
 {
     currPos = ["", "", "", "", "", "", "", "", ""];
-    leftBlocks = 9;
+    leftBlocks = 10;
     btns.forEach((btn) => {
         btn.value = "";
         btn.disabled = false;
