@@ -10,7 +10,7 @@
 ---
 <br/>
 
-## _About me_ :man
+## _About me_ :man:
 
 Me chamo Arthur Nazário da Costa, tenho 21 anos, e atualmente estou graduando Engenharia Eletrônica e de Telecomunicações na Universidade Federal de Uberlândia campus Patos de Minas desde Março de 2020. Gosto bastante de desafios :muscle:, programar:computer:, ouvir músicas:loud_sound:, comer :cookie:, sair com os amigos:beers:, ler:books: e aprender coisas novas:brain:
 
@@ -18,7 +18,7 @@ Me chamo Arthur Nazário da Costa, tenho 21 anos, e atualmente estou graduando E
 
 <br/>
 
-## _Sobre o projeto_ :hammer_and_wrench
+## _Sobre o projeto_ :hammer_and_wrench:
 
 O projeto foi desenvolvido e planejado por Arthur Nazário da Costa. O objetivo principal é aprimorar minhas habilidades de lógica de programação, conceitos fundamentais sobre Desenvolvimento Web e Front-End. Pode-se jogar com 2 jogadores, e , possivelmente, no futuro estarei atribuindo a opção de 1 player para testar meus conhecimentos sobre Reinforcment Learning :robot:.
 
@@ -26,7 +26,7 @@ O projeto foi desenvolvido e planejado por Arthur Nazário da Costa. O objetivo 
 
 <br/>
 
-## _Desenvolvimento_ :hammer_and_wrench
+## _Desenvolvimento_ :hammer_and_wrench:
 
 Ferramentas e plataformas utilizadas:
 
@@ -42,7 +42,7 @@ Ferramentas e plataformas utilizadas:
 
 <br/>
 
-## _Referências_ :link
+## _Referências_ :link:
 
 - Color Picker: Obter as cores no formato rgb e hexadecimal.
 - StackOverFlow: Buscar soluções de problemas afins interagindo com a comunidade do StackOverFlow. Está é uma ótima maneira de ampliar o Networking.
