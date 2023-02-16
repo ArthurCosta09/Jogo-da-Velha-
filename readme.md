@@ -1,6 +1,6 @@
 **<h1 align='center'>Jogo da Velha :x: :o:</h1>**
 
-## _Sumário_ :scroll
+## _Sumário_ :scroll:
 
 > - [About me](#about-me)
 > - [Sobre o projeto](#sobre-o-projeto-hammerandwrench)
