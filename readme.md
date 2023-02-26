@@ -22,6 +22,8 @@ Me chamo Arthur Nazário da Costa, tenho 21 anos, e atualmente estou graduando E
 
 O projeto foi desenvolvido e planejado por Arthur Nazário da Costa. O objetivo principal é aprimorar minhas habilidades de lógica de programação, conceitos fundamentais sobre Desenvolvimento Web e Front-End. Pode-se jogar com 2 jogadores, e , possivelmente, no futuro estarei atribuindo a opção de 1 player para testar meus conhecimentos sobre Reinforcment Learning :robot:.
 
+Por enquanto as únicas peças que estão tendo movimentação são os peões. A medida do possível, adicionarei os comandos das outras peças, e assim completar o projeto.
+
 ---
 
 <br/>
